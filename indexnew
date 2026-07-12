@@ -211,7 +211,7 @@
                 </h1>
                 
                 <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                    Xin chào! Tôi là một sinh viên năm nhất chuyên ngành <strong class="text-pink-500 font-semibold">Ngôn ngữ và Văn hóa Anh</strong> dưới mái trường <strong class="text-purple-500 font-semibold">Đại học Ngoại ngữ - ĐHQGHN (ULIS)</strong>. Sở thích của tôi là xem phim, nghe nhạc và chụp những bức ảnh thật xinh. Là một người yêu ngôn ngữ nhưng luôn khao khát làm chủ công nghệ số học hiện đại, Portfolio này chính là không gian lưu trữ trực quan toàn bộ thành quả thực hành của tôi trong học phần <strong class="text-blue-500 font-semibold">Nhập môn Công nghệ số và Ứng dụng Trí tuệ Nhân tạo</strong>.
+                    Xin chào! Tôi là một sinh viên năm nhất chuyên ngành <strong class="text-pink-500 font-semibold">Ngôn ngữ và Văn hóa Anh</strong> dưới mái trường <strong class="text-purple-500 font-semibold">Đại học Ngoại ngữ - ĐHQGHN (ULIS)</strong>. Sở thích của tôi là xem phim, nghe nhạc và chụp những bức ảnh thật xinh xắn. Là một người yêu ngôn ngữ nhưng luôn khao khát làm chủ công nghệ số, Portfolio này chính là không gian lưu trữ trực quan toàn bộ thành quả thực hành của tôi trong suốt học phần <strong class="text-blue-500 font-semibold">Nhập môn Công nghệ số và Ứng dụng Trí tuệ Nhân tạo</strong>.
                 </p>
 
                 <!-- Thẻ sinh viên chi tiết -->
@@ -817,7 +817,7 @@ Xem bài tập EX6
                             Trải nghiệm thực hiện dự án số cá nhân này giúp tôi hiểu ra rằng, công nghệ AI không phải là chiếc "đũa thần" tự tạo ra tri thức, mà nó chính là chiếc "kính lúp" tinh nhạy hỗ trợ con người soi chiếu và phóng to năng lực của mình.
                         </p>
                         <p class="text-xs md:text-sm text-gray-600 leading-relaxed">
-                            Từ việc sắp xếp tài liệu và thư mục ở đĩa cứng (D:), tra cứu 11 tài liệu đến việc phân cấp các prompt Chomsky, tôi đã hình thành tư duy hệ thống và tác phong làm việc chuyên nghiệp trong lĩnh vực công nghệ số.
+                            Từ việc sắp xếp tài liệu và thư mục ở đĩa cứng (D:), tra cứu 11 tài liệu đến việc phân cấp các prompt Chomsky, tôi đã dần hình thành tư duy hệ thống và tác phong làm việc chuyên nghiệp trong lĩnh vực công nghệ số.
                         </p>
                     </div>
                     <div class="pt-4 border-t border-pink-100 text-xs text-gray-400 font-mono flex justify-between">
@@ -835,7 +835,7 @@ Xem bài tập EX6
                     
                     <div class="p-4 rounded-xl bg-blue-50/50 border border-blue-100 space-y-1">
                         <h5 class="font-bold text-blue-700 flex items-center gap-1"><i class="fa-solid fa-triangle-exclamation"></i> Thử thách lớn nhất đã vượt qua</h5>
-                        <p class="text-gray-600">Đấu tranh với thói quen ỷ lại vào công nghệ AI khi làm bài tập, rèn luyện thói quen tự biên soạn nội dung chi tiết. Từ một sinh viên với kiến thức ít ỏi về code và tạo dựng trang web, tôi đã từng bước học hỏi và có thể tự tạo cho mình một portfolio cá nhân chuyên nghiệp.</p>
+                        <p class="text-gray-600">Đấu tranh với thói quen ỷ lại vào công cụ AI khi làm bài tập, luyện tập tự biên soạn nội dung chi tiết. Từ một sinh viên với kiến thức ít ỏi về code và tạo dựng trang web, tôi đã từng bước học hỏi và có thể tự tạo cho mình một portfolio cá nhân chuyên nghiệp.</p>
                     </div>
 
                     <div class="p-4 rounded-xl bg-emerald-50/50 border border-emerald-100 space-y-1">
