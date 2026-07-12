@@ -279,7 +279,7 @@
                     <ul class="text-xs md:text-sm text-gray-600 space-y-2 list-disc list-inside">
                         <li>Ứng dụng tốt công nghệ số để thiết lập hệ thống lưu trữ bài học tự động hóa hiệu quả.</li>
                         <li>Hiểu và viết câu lệnh prompt chuẩn mực, phục vụ đắc lực cho các tác vụ nghiên cứu dịch thuật và tự rèn luyện kỹ năng viết học thuật.</li>
-                        <li>Cân bằng tính chính trực, không lạm dụng AI tạo sinh nhằm phát huy bản sắc cá nhân nguyên bản.</li>
+                        <li>Không lạm dụng AI tạo sinh trong học tập nhằm nâng cao tư duy và phát huy bản sắc cá nhân.</li>
                     </ul>
                 </div>
                 <div class="glass-card p-6 space-y-4 bg-gradient-to-r from-purple-50/10 to-blue-50/10">
@@ -328,7 +328,7 @@
                     Ex 5: AI sáng tạo nội dung
                 </button>
                 <button onclick="switchTab(6)" id="tab-btn-6" class="tab-btn px-4 py-2 rounded-full glass-card text-xs md:text-sm font-semibold hover:bg-rose-100/50 transition-all text-gray-600">
-                    Ex 6: AI có trách nhiệm
+                    Ex 6: Dùng AI có trách nhiệm
                 </button>
             </div>
 
