@@ -211,7 +211,7 @@
                 </h1>
                 
                 <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                    Xin chào! Tôi là một tân sinh viên năm nhất chuyên ngành <strong class="text-pink-500 font-semibold">Ngôn ngữ và Văn hóa Anh</strong> dưới mái trường <strong class="text-purple-500 font-semibold">Đại học Ngoại ngữ - ĐHQGHN (ULIS)</strong>. Là một người yêu ngôn ngữ nhưng luôn khao khát làm chủ công nghệ số học hiện đại, Portfolio này chính là không gian lưu trữ trực quan toàn bộ thành quả thực hành của tôi trong học phần <strong class="text-blue-500 font-semibold">Nhập môn Công nghệ số và Ứng dụng Trí tuệ Nhân tạo</strong>.
+                    Xin chào! Tôi là một tân sinh viên năm nhất chuyên ngành <strong class="text-pink-500 font-semibold">Ngôn ngữ và Văn hóa Anh</strong> dưới mái trường <strong class="text-purple-500 font-semibold">Đại học Ngoại ngữ - ĐHQGHN (ULIS)</strong>. Sở thích của tôi là xem phim, nghe nhạc và chụp những bức ảnh thật xinh. Là một người yêu ngôn ngữ nhưng luôn khao khát làm chủ công nghệ số học hiện đại, Portfolio này chính là không gian lưu trữ trực quan toàn bộ thành quả thực hành của tôi trong học phần <strong class="text-blue-500 font-semibold">Nhập môn Công nghệ số và Ứng dụng Trí tuệ Nhân tạo</strong>.
                 </p>
 
                 <!-- Thẻ sinh viên chi tiết -->
@@ -405,8 +405,6 @@
                 Minh chứng bài thực hành
             </h4>
 
-            <p class="text-xs text-gray-500 mt-1">
-                Nhấn vào nút bên phải để xem toàn bộ file bài tập trên Google Drive.
             </p>
         </div>
 
@@ -547,6 +545,16 @@
                                 </tbody>
                             </table>
                         </div>
+<a href="https://drive.google.com/file/d/1xOE31aILl_j0SL5aais6aKmV7ioWUONL/view?usp=sharing"
+   target="_blank"
+   class="inline-flex items-center gap-2 px-5 py-3 rounded-full
+   bg-gradient-to-r from-purple-300 to-indigo-300
+   hover:from-purple-400 hover:to-indigo-400
+   text-white font-bold text-sm shadow-lg transition-all hover:scale-105">
+
+    <i class="fa-solid fa-file-lines"></i>
+    Xem bài tập EX2
+</a>
                     </div>
                 </div>
 
@@ -603,6 +611,14 @@
                             <h4 class="font-bold flex items-center gap-1"><i class="fa-solid fa-graduation-cap"></i> Phân tích hiệu quả Prompt:</h4>
                             <p>Prompt nâng cao ứng dụng <strong>Flipped Interaction (Tương tác đảo ngược)</strong> biến AI thành một gia sư thực thụ thông qua hỏi đáp tuần tự, kích thích tư duy phản biện và giúp sinh viên tiếp thu nhanh hơn so với đọc văn bản khối dày đặc.</p>
                         </div>
+<a href="https://drive.google.com/file/d/1mNaOtoWQ7qaWiLWJD9ngLFtsRG5jvNKJ/view?usp=sharing" target="_blank"
+class="inline-flex items-center gap-2 px-5 py-3 rounded-full
+bg-gradient-to-r from-indigo-300 to-blue-300
+text-white rounded-full font-bold shadow-lg hover:scale-105 transition">
+
+<i class="fa-solid fa-terminal"></i>
+Xem bài tập EX3
+</a>
                     </div>
                 </div>
 
@@ -650,6 +666,14 @@
                                 <div class="pl-4">└── 03_Bai_Viet_Goc (Bản thảo Docs và PDF)</div>
                             </div>
                         </div>
+<a href="https://drive.google.com/file/d/1iKOwnQCCRcB4lQTesMrv3oRIWyDuMlhV/view?usp=sharing" target="_blank"
+class="inline-flex items-center gap-2 px-5 py-3 rounded-full
+bg-gradient-to-r from-blue-300 to-cyan-300
+text-white font-bold shadow-lg hover:scale-105 transition">
+
+<i class="fa-solid fa-users"></i>
+Xem bài tập EX4
+</a>
                     </div>
                 </div>
 
@@ -698,6 +722,14 @@
                                 <li><strong>Hạn chế:</strong> Dễ gặp "hội chứng ảo tưởng" (hallucination), đầu ra thô nếu không tinh chỉnh prompt, thiếu vắng chiều sâu cảm xúc nếu con người không nhúng tư duy trực tiếp vào.</li>
                             </ul>
                         </div>
+<a href="https://drive.google.com/file/d/15xxV7cbZcAj9pEsF_4nyEzg4lkjhrbCr/view?usp=drive_link" target="_blank"
+class="inline-flex items-center gap-2 px-5 py-3 rounded-full
+bg-gradient-to-r from-emerald-300 to-green-300
+text-white font-bold shadow-lg hover:scale-105 transition">
+
+<i class="fa-solid fa-wand-magic-sparkles"></i>
+Xem bài tập EX5
+</a>
                     </div>
                 </div>
 
@@ -749,6 +781,14 @@
                             <span>"Hành trình làm chủ công nghệ không có dấu chân của sự lười biếng."</span>
                             <span class="font-serif font-bold text-pink-500">— Vũ Thùy Dương, ULIS-VNU</span>
                         </div>
+<a href="https://drive.google.com/file/d/1bEISx8jURwQ2Mbdz12P7SCEsZlrZyoAG/view?usp=sharing" target="_blank"
+class="inline-flex items-center gap-2 px-5 py-3 rounded-full
+bg-gradient-to-r from-rose-300 to-pink-300
+text-white font-bold shadow-lg hover:scale-105 transition">
+
+<i class="fa-solid fa-shield-heart"></i>
+Xem bài tập EX6
+</a>
                     </div>
                 </div>
 
@@ -763,7 +803,7 @@
             <div class="text-center space-y-2">
                 <span class="text-xs font-bold text-pink-500 uppercase tracking-widest"><i class="fa-solid fa-feather-pointed"></i> Self Reflection</span>
                 <h2 class="font-serif text-3xl md:text-4xl font-extrabold text-gray-800">
-                    Trang Tổng Kết Dự Án Cá Nhân
+                    Tổng Kết Dự Án Cá Nhân
                 </h2>
                 <div class="w-16 h-0.5 bg-pink-300 mx-auto rounded"></div>
             </div>
@@ -774,10 +814,10 @@
                     <div class="space-y-4">
                         <h4 class="font-serif text-lg font-bold text-pink-600 italic">Nhật ký của Dương...</h4>
                         <p class="text-xs md:text-sm text-gray-600 leading-relaxed">
-                            Trải nghiệm thực hiện dự án số hóa cá nhân này giúp tôi hiểu rằng, công nghệ AI không phải là chiếc "đũa thần" tự tạo ra tri thức, mà nó chính là chiếc "kính hiển vi" tinh nhạy hỗ trợ con người phóng to năng lực của mình.
+                            Trải nghiệm thực hiện dự án số cá nhân này giúp tôi hiểu rằng, công nghệ AI không phải là chiếc "đũa thần" tự tạo ra tri thức, mà nó chính là chiếc "kính lúp" tinh nhạy hỗ trợ con người soi chiếu và phóng to năng lực của mình.
                         </p>
                         <p class="text-xs md:text-sm text-gray-600 leading-relaxed">
-                            Từ việc sắp xếp đĩa cứng DUONG CHI (D:), tra cứu 11 tài liệu đến việc phân cấp các prompt Chomsky, tôi đã hình thành tư duy hệ thống và tác phong làm việc vô cùng chuyên nghiệp.
+                            Từ việc sắp xếp tài liệu và thư mục ở đĩa cứng (D:), tra cứu 11 tài liệu đến việc phân cấp các prompt Chomsky, tôi đã hình thành tư duy hệ thống và tác phong làm việc chuyên nghiệp trong lĩnh vực công nghệ số.
                         </p>
                     </div>
                     <div class="pt-4 border-t border-pink-100 text-xs text-gray-400 font-mono flex justify-between">
@@ -795,7 +835,7 @@
                     
                     <div class="p-4 rounded-xl bg-blue-50/50 border border-blue-100 space-y-1">
                         <h5 class="font-bold text-blue-700 flex items-center gap-1"><i class="fa-solid fa-triangle-exclamation"></i> Thử thách lớn nhất đã vượt qua</h5>
-                        <p class="text-gray-600">Đấu tranh với thói quen ỷ lại công nghệ (digital laziness) khi viết bài luận bảo tồn ngôn ngữ bản địa, rèn luyện thói quen tự biên soạn 100% nội dung chi tiết.</p>
+                        <p class="text-gray-600">Đấu tranh với thói quen ỷ lại vào công nghệ AI khi làm bài tập, rèn luyện thói quen tự biên soạn nội dung chi tiết. Từ một sinh viên với vốn kiến thức ít ỏi về code và tạo dựng trang web, tôi đã từng bước học hỏi và có thể tự tạo cho mình một portfolio cá nhân chuyên nghiệp.</p>
                     </div>
 
                     <div class="p-4 rounded-xl bg-emerald-50/50 border border-emerald-100 space-y-1">
