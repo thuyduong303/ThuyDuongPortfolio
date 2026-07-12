@@ -201,7 +201,7 @@
             <!-- Left Block Info -->
             <div class="md:col-span-7 space-y-6" id="intro-text">
                 <span class="inline-block px-4 py-2 rounded-full bg-pink-100 text-pink-500 font-bold text-xs tracking-wider uppercase">
-                    ✨ Digital Portfolio Kỹ thuật số
+                    ✨ Portfolio Nhập môn Công nghệ số
                 </span>
                 <h1 class="font-serif text-4xl md:text-5xl font-black text-gray-800 leading-tight">
                     Vũ Thùy Dương <br>
@@ -211,7 +211,7 @@
                 </h1>
                 
                 <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                    Xin chào! Tôi là một tân sinh viên năm nhất chuyên ngành <strong class="text-pink-500 font-semibold">Ngôn ngữ và Văn hóa Anh</strong> dưới mái trường <strong class="text-purple-500 font-semibold">Đại học Ngoại ngữ - ĐHQGHN (ULIS)</strong>. Sở thích của tôi là xem phim, nghe nhạc và chụp những bức ảnh thật xinh. Là một người yêu ngôn ngữ nhưng luôn khao khát làm chủ công nghệ số học hiện đại, Portfolio này chính là không gian lưu trữ trực quan toàn bộ thành quả thực hành của tôi trong học phần <strong class="text-blue-500 font-semibold">Nhập môn Công nghệ số và Ứng dụng Trí tuệ Nhân tạo</strong>.
+                    Xin chào! Tôi là một sinh viên năm nhất chuyên ngành <strong class="text-pink-500 font-semibold">Ngôn ngữ và Văn hóa Anh</strong> dưới mái trường <strong class="text-purple-500 font-semibold">Đại học Ngoại ngữ - ĐHQGHN (ULIS)</strong>. Sở thích của tôi là xem phim, nghe nhạc và chụp những bức ảnh thật xinh. Là một người yêu ngôn ngữ nhưng luôn khao khát làm chủ công nghệ số học hiện đại, Portfolio này chính là không gian lưu trữ trực quan toàn bộ thành quả thực hành của tôi trong học phần <strong class="text-blue-500 font-semibold">Nhập môn Công nghệ số và Ứng dụng Trí tuệ Nhân tạo</strong>.
                 </p>
 
                 <!-- Thẻ sinh viên chi tiết -->
@@ -306,7 +306,7 @@
                     Chi Tiết 6 Sản Phẩm Thực Hành Đã Làm
                 </h2>
                 <p class="text-xs text-gray-500 max-w-lg mx-auto">
-                    Dưới đây là toàn bộ báo cáo, tư liệu thực tế do chính tôi tự thiết lập và hoàn thiện xuyên suốt học kỳ vừa qua.
+                    Dưới đây là toàn bộ báo cáo, tư liệu thực tế do tôi tự thiết lập và hoàn thiện xuyên suốt học kỳ vừa qua.
                 </p>
             </div>
 
@@ -392,7 +392,7 @@
                         <div class="p-4 bg-emerald-50 rounded-2xl border border-emerald-100 text-xs md:text-sm text-emerald-800 space-y-1">
                             <h4 class="font-bold flex items-center gap-1"><i class="fa-solid fa-circle-check"></i> Bài học thực nghiệm:</h4>
                             <p class="text-xs">
-                                Việc phân biệt rõ cơ chế xóa thường (chuyển vào Recycle Bin) và xóa vĩnh viễn (Shift + Delete thay đổi trực tiếp bảng FAT/địa chỉ con trỏ tệp tin mà không ghi đè dữ liệu vật lý ngay lập tức) giúp tôi bảo vệ dữ liệu học tập cá nhân an toàn, tránh rủi ro mất mát dữ liệu.
+                                Việc phân biệt rõ cơ chế xóa thường (chuyển vào Recycle Bin) và xóa vĩnh viễn (Shift + Delete thay đổi trực tiếp bảng FAT/địa chỉ con trỏ tệp tin mà không ghi đè dữ liệu vật lý ngay lập tức) giúp tôi bảo vệ dữ liệu học tập cá nhân an toàn, tránh rủi ro mất dữ liệu.
                             </p>
                         </div>
 <!-- ================= LINK BÀI LÀM GỐC ================= -->
@@ -452,7 +452,7 @@
                             </div>
                         </div>
 
-                        <!-- Bảng đánh giá 11 nguồn tài liệu học thuật từ bài làm tự tay -->
+                        <!-- Bảng đánh giá 11 nguồn tài liệu học thuật -->
                         <div class="overflow-x-auto rounded-2xl border border-purple-100 shadow-inner">
                             <table class="w-full text-left text-xs text-gray-600 min-w-[700px]">
                                 <thead class="bg-purple-50 text-purple-700 font-bold uppercase text-[10px] tracking-wider">
@@ -634,7 +634,7 @@ Xem bài tập EX3
                         </div>
 
                         <p class="text-xs md:text-sm text-gray-600 leading-relaxed">
-                            Để triển khai dự án nhóm xây dựng cẩm nang phương pháp học tập số cho tân sinh viên ULIS, nhóm tôi đã liên kết đồng bộ bộ 4 công cụ tối tân: <strong>Trello</strong> (Quản lý tiến độ), <strong>Discord</strong> (Giao tiếp tích hợp Webhook thông báo thời gian thực), <strong>Google Docs</strong> (Đồng soạn thảo) và <strong>Google Drive</strong> (Lưu trữ tệp chuẩn hóa).
+                            Để triển khai dự án, nhóm xây dựng cẩm nang phương pháp học tập số cho tân sinh viên ULIS, nhóm tôi đã liên kết đồng bộ bộ 4 công cụ: <strong>Trello</strong> (Quản lý tiến độ), <strong>Discord</strong> (Giao tiếp tích hợp Webhook thông báo thời gian thực), <strong>Google Docs</strong> (Đồng soạn thảo) và <strong>Google Drive</strong> (Lưu trữ tệp chuẩn hóa).
                         </p>
 
                         <!-- Bản đồ các Thử thách và Giải pháp thực tế của nhóm -->
@@ -656,7 +656,7 @@ Xem bài tập EX3
                             </div>
                         </div>
 
-                        <!-- Minh chứng quản lý tệp trên Google Drive theo cấu trúc bài làm của bạn -->
+                        <!-- Minh chứng quản lý tệp trên Google Drive theo cấu trúc bài làm -->
                         <div class="p-4 bg-gray-50 rounded-2xl border border-gray-200 space-y-2">
                             <span class="text-xs font-bold text-gray-500">📁 Hệ thống thư mục lưu trữ thực tế của nhóm:</span>
                             <div class="text-xs font-mono text-gray-600 pl-4 space-y-1">
@@ -683,7 +683,7 @@ Xem bài tập EX4
                         <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-emerald-100 pb-4">
                             <div>
                                 <h3 class="font-serif text-xl md:text-2xl font-bold text-gray-800">Bài tập 5: Sử dụng AI tạo sinh để hỗ trợ sáng tạo nội dung</h3>
-                                <p class="text-xs text-emerald-500 font-bold uppercase tracking-wider mt-1">Mục tiêu: Đồng sáng tạo Cẩm nang tiếng Anh giao tiếp chuẩn ULIS dành cho tân sinh viên</p>
+                                <p class="text-xs text-emerald-500 font-bold uppercase tracking-wider mt-1">Mục tiêu: Sáng tạo Cẩm nang tiếng Anh giao tiếp chuẩn ULIS dành cho tân sinh viên</p>
                             </div>
                             <span class="px-3 py-1 bg-emerald-100 text-emerald-600 text-xs font-bold rounded-full self-start md:self-auto">AI thế hệ mới</span>
                         </div>
@@ -709,7 +709,7 @@ Xem bài tập EX4
                             <div class="p-4 rounded-xl bg-white border border-emerald-100 space-y-2">
                                 <span class="font-bold text-emerald-700 flex items-center gap-1"><i class="fa-solid fa-wand-magic-sparkles"></i> Bước 3: DALL-E 3</span>
                                 <p class="text-gray-500 leading-relaxed">
-                                    Thực hiện 2 lượt prompt nâng cao mô tả sinh động chân dung một sinh viên Việt Nam thân thiện học tập hạnh phúc trong thư viện hiện đại, kết hợp khéo léo bối cảnh logo và màu sắc tươi sáng đặc trưng của ULIS.
+                                    Thực hiện 2 lượt prompt nâng cao mô tả sinh động chân dung một sinh viên Việt Nam thân thiện học tập vui vẻ trong thư viện hiện đại, kết hợp khéo léo bối cảnh logo và màu sắc tươi sáng đặc trưng của ULIS.
                                 </p>
                             </div>
                         </div>
@@ -719,7 +719,7 @@ Xem bài tập EX4
                             <h4 class="font-bold flex items-center gap-1"><i class="fa-solid fa-circle-check"></i> Đánh giá khoa học từ bài làm:</h4>
                             <ul class="list-disc list-inside space-y-1">
                                 <li><strong>Điểm vượt trội:</strong> AI có khả năng nhân bản dữ liệu tốt, khoanh vùng vùng tri thức để trả về kết quả nhanh chóng, giảm thiểu tối đa các công đoạn thủ công tẻ nhạt.</li>
-                                <li><strong>Hạn chế:</strong> Dễ gặp "hội chứng ảo tưởng" (hallucination), đầu ra thô nếu không tinh chỉnh prompt, thiếu vắng chiều sâu cảm xúc nếu con người không nhúng tư duy trực tiếp vào.</li>
+                                <li><strong>Hạn chế:</strong> Dễ gặp "hội chứng ảo tưởng" (hallucination), đầu ra thô nếu không tinh chỉnh prompt, thiếu chiều sâu cảm xúc nếu con người không chủ động thêm tư duy trực tiếp vào bài làm.</li>
                             </ul>
                         </div>
 <a href="https://drive.google.com/file/d/15xxV7cbZcAj9pEsF_4nyEzg4lkjhrbCr/view?usp=drive_link" target="_blank"
@@ -733,13 +733,13 @@ Xem bài tập EX5
                     </div>
                 </div>
 
-                <!-- ---------------- EXER 6: AI CÓ TRÁCH NHIỆM ---------------- -->
+                <!-- ---------------- EXER 6: DÙNG AI CÓ TRÁCH NHIỆM ---------------- -->
                 <div id="tab-content-6" class="tab-pane hidden space-y-6">
                     <div class="glass-card p-6 md:p-8 space-y-6">
                         <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-rose-100 pb-4">
                             <div>
                                 <h3 class="font-serif text-xl md:text-2xl font-bold text-gray-800">Bài tập 6: Sử dụng AI có trách nhiệm trong học tập và nghiên cứu</h3>
-                                <p class="text-xs text-rose-500 font-bold uppercase tracking-wider mt-1">Mục tiêu: Đảm bảo liêm chính học thuật tối đa khi học tập trong kỷ nguyên số hóa</p>
+                                <p class="text-xs text-rose-500 font-bold uppercase tracking-wider mt-1">Mục tiêu: Đảm bảo liêm chính học thuật khi học tập trong kỷ nguyên số hóa</p>
                             </div>
                             <span class="px-3 py-1 bg-rose-100 text-rose-600 text-xs font-bold rounded-full self-start md:self-auto">Liêm chính học thuật</span>
                         </div>
@@ -768,11 +768,11 @@ Xem bài tập EX5
                             </div>
                             <div class="p-4 rounded-xl bg-emerald-50/50 border border-emerald-100 space-y-1">
                                 <h4 class="font-bold text-emerald-700">5. Làm chủ ngôn ngữ</h4>
-                                <p class="text-gray-500 leading-relaxed">Chỉ dùng AI để rà soát lỗi ngữ pháp nhỏ, luôn giữ vững giọng văn riêng độc bản (authorial voice) của chính mình.</p>
+                                <p class="text-gray-500 leading-relaxed">Chỉ dùng AI để rà soát lỗi ngữ pháp nhỏ, luôn giữ vững giọng văn riêng của chính mình.</p>
                             </div>
                             <div class="p-4 rounded-xl bg-indigo-50/50 border border-indigo-100 space-y-1">
                                 <h4 class="font-bold text-indigo-700">6. Phát triển bền vững</h4>
-                                <p class="text-gray-500 leading-relaxed">Sử dụng AI với mục đích nâng cao hiệu suất học tập, tuyệt đối không dùng AI để đối phó với các kỳ thi hoặc bài đánh giá năng lực cốt lõi.</p>
+                                <p class="text-gray-500 leading-relaxed">Sử dụng AI với mục đích nâng cao hiệu suất học tập, tuyệt đối không dùng AI để đối phó với các kỳ thi hoặc bài đánh giá năng lực.</p>
                             </div>
                         </div>
 
@@ -814,7 +814,7 @@ Xem bài tập EX6
                     <div class="space-y-4">
                         <h4 class="font-serif text-lg font-bold text-pink-600 italic">Nhật ký của Dương...</h4>
                         <p class="text-xs md:text-sm text-gray-600 leading-relaxed">
-                            Trải nghiệm thực hiện dự án số cá nhân này giúp tôi hiểu rằng, công nghệ AI không phải là chiếc "đũa thần" tự tạo ra tri thức, mà nó chính là chiếc "kính lúp" tinh nhạy hỗ trợ con người soi chiếu và phóng to năng lực của mình.
+                            Trải nghiệm thực hiện dự án số cá nhân này giúp tôi hiểu ra rằng, công nghệ AI không phải là chiếc "đũa thần" tự tạo ra tri thức, mà nó chính là chiếc "kính lúp" tinh nhạy hỗ trợ con người soi chiếu và phóng to năng lực của mình.
                         </p>
                         <p class="text-xs md:text-sm text-gray-600 leading-relaxed">
                             Từ việc sắp xếp tài liệu và thư mục ở đĩa cứng (D:), tra cứu 11 tài liệu đến việc phân cấp các prompt Chomsky, tôi đã hình thành tư duy hệ thống và tác phong làm việc chuyên nghiệp trong lĩnh vực công nghệ số.
@@ -835,12 +835,12 @@ Xem bài tập EX6
                     
                     <div class="p-4 rounded-xl bg-blue-50/50 border border-blue-100 space-y-1">
                         <h5 class="font-bold text-blue-700 flex items-center gap-1"><i class="fa-solid fa-triangle-exclamation"></i> Thử thách lớn nhất đã vượt qua</h5>
-                        <p class="text-gray-600">Đấu tranh với thói quen ỷ lại vào công nghệ AI khi làm bài tập, rèn luyện thói quen tự biên soạn nội dung chi tiết. Từ một sinh viên với vốn kiến thức ít ỏi về code và tạo dựng trang web, tôi đã từng bước học hỏi và có thể tự tạo cho mình một portfolio cá nhân chuyên nghiệp.</p>
+                        <p class="text-gray-600">Đấu tranh với thói quen ỷ lại vào công nghệ AI khi làm bài tập, rèn luyện thói quen tự biên soạn nội dung chi tiết. Từ một sinh viên với kiến thức ít ỏi về code và tạo dựng trang web, tôi đã từng bước học hỏi và có thể tự tạo cho mình một portfolio cá nhân chuyên nghiệp.</p>
                     </div>
 
                     <div class="p-4 rounded-xl bg-emerald-50/50 border border-emerald-100 space-y-1">
                         <h5 class="font-bold text-emerald-700 flex items-center gap-1"><i class="fa-solid fa-rocket"></i> Hành trình tương lai</h5>
-                        <p class="text-gray-600">Tôi mong muốn sẽ tiếp tục tối ưu hóa, biến portfolio mộng mơ này thành một CV số cá nhân độc đáo đồng hành cùng tôi trên mọi chặng đường học tập sắp tới tại ULIS.</p>
+                        <p class="text-gray-600">Tôi mong muốn sẽ tiếp tục tối ưu hóa, biến portfolio mộng mơ này thành một CV số cá nhân độc đáo đồng hành cùng tôi trên chặng đường học tập sắp tới tại ULIS.</p>
                     </div>
                 </div>
             </div>
